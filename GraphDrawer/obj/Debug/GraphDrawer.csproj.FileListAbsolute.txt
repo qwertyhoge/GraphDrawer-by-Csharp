@@ -1,1 +1,13 @@
 C:\Users\聖\Documents\Visual Studio 2015\Projects\GraphDrawer\GraphDrawer\GraphDrawer\bin\Debug\GraphDrawer.exe.config
+C:\Users\聖\Documents\Visual Studio 2015\Projects\GraphDrawer\GraphDrawer\bin\Debug\GraphDrawer.exe.config
+C:\Users\聖\Documents\Visual Studio 2015\Projects\GraphDrawer\GraphDrawer\bin\Debug\GraphDrawer.exe
+C:\Users\聖\Documents\Visual Studio 2015\Projects\GraphDrawer\GraphDrawer\bin\Debug\GraphDrawer.pdb
+C:\Users\聖\Documents\Visual Studio 2015\Projects\GraphDrawer\GraphDrawer\obj\Debug\GraphDrawer.Form1.resources
+C:\Users\聖\Documents\Visual Studio 2015\Projects\GraphDrawer\GraphDrawer\obj\Debug\GraphDrawer.Form2.resources
+C:\Users\聖\Documents\Visual Studio 2015\Projects\GraphDrawer\GraphDrawer\obj\Debug\GraphDrawer.Properties.Resources.resources
+C:\Users\聖\Documents\Visual Studio 2015\Projects\GraphDrawer\GraphDrawer\obj\Debug\GraphDrawer.csproj.GenerateResource.Cache
+C:\Users\聖\Documents\Visual Studio 2015\Projects\GraphDrawer\GraphDrawer\obj\Debug\GraphDrawer.csproj.CoreCompileInputs.cache
+C:\Users\聖\Documents\Visual Studio 2015\Projects\GraphDrawer\GraphDrawer\obj\Debug\GraphDrawer.exe
+C:\Users\聖\Documents\Visual Studio 2015\Projects\GraphDrawer\GraphDrawer\obj\Debug\GraphDrawer.pdb
+C:\Users\聖\Documents\Visual Studio 2015\Projects\GraphDrawer\GraphDrawer\obj\Debug\GraphDrawer.csprojResolveAssemblyReference.cache
+C:\Users\聖\Documents\Visual Studio 2015\Projects\GraphDrawer\GraphDrawer\obj\Debug\GraphDrawer.Form3.resources
