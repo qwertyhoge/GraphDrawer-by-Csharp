@@ -11,3 +11,4 @@ C:\Users\聖\Documents\Visual Studio 2015\Projects\GraphDrawer\GraphDrawer\obj\D
 C:\Users\聖\Documents\Visual Studio 2015\Projects\GraphDrawer\GraphDrawer\obj\Debug\GraphDrawer.pdb
 C:\Users\聖\Documents\Visual Studio 2015\Projects\GraphDrawer\GraphDrawer\obj\Debug\GraphDrawer.csprojResolveAssemblyReference.cache
 C:\Users\聖\Documents\Visual Studio 2015\Projects\GraphDrawer\GraphDrawer\obj\Debug\GraphDrawer.Form3.resources
+C:\Users\聖\Documents\Visual Studio 2015\Projects\GraphDrawer\GraphDrawer\obj\Debug\GraphDrawer.Form4.resources
